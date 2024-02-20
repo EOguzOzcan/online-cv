@@ -10,7 +10,7 @@ sidebar:
   # Profile information
   name: Emrullah Oğuz Özcan
   tagline: Frontend Developer
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: e.oguz.ozcan@gmail.com
@@ -47,7 +47,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Experienced Full Stack Developer with a strong interest in exploring new technologies and creating innovative applications. Skilled in both front-end and back-end development, I excel in fast-paced environments where I can apply my creativity and technical knowledge to deliver high-quality solutions. Committed to pushing technological boundaries and achieving impactful outcomes, I have a keen eye for detail and a passion for driving results.
+    Dedicated frontend developer with a passion for frontend development and a robust skill set in JavaScript, HTML5, CSS, TypeScript, React. I have actively contributed to a KOSGEB-supported Complex Event Processing (CEP) project, specializing in frontend tasks such as responsive design, HTTPS requests, and user interface implementation. My toolset extends to utilizing UI libraries, such as Tailwind CSS, and integrating Supabase for web applications, showcasing a comprehensive skill set in frontend web development. Committed to continuous learning, I bring a solid foundation in creating responsive and user-friendly web experiences while staying abreast of industry trends and advancements.
 education:
   title: Education
   info:
@@ -69,19 +69,11 @@ certifications:
   title: Certifications
   list:
     - name: Udemy
-      start:
-      end:
-      organization: Udemy
-      credentialurl: https://www.udemy.com/user/omer-eren/
-      credentialname: Udemy
       details: |
         Driven by a passion for learning, I spend my free time exploring different technologies and acquiring new skills. This includes delving into areas such as Arduino, Raspberry Pi, Python, JavaScript, C#, C++, Java, and more. This commitment to continuous learning allows me to stay updated with the latest advancements in technology, enhancing my proficiency and adaptability as a professional in the field.
     - name: Üçüncü Binyıl
       start: 03/2018
       end: 09/2018
-      organization: Microsoft
-      credentialurl: https://akademi.bilgeadam.com/courses/yazilim-dot-net-egitimi/
-      credentialname: Bilge Adam
       details: |
         Successfully completed a comprehensive certification program, covering a range of technologies including React, JavaScript, HTML, and CSS. This program provided hands-on training and practical experience, enhancing my proficiency in web development.
 
@@ -91,13 +83,11 @@ projects:
     Side projects
   assignments:
     - title: P&G (Procter and Gamble)
-      link: "#"
+      website: motion-es.com
       tagline: "
         <br />
-        - Packaging Qualification: A packaging system designed for planning at the P&G Germany factory.<br />
-        - QAlert: An information system tailored for the production lines at the P&G Gebze factory.<br />
-        - Action Plan: A comprehensive information and monitoring system deployed across the entirety of the P&G Gebze factory.<br />
-        - Maintenance of various applications.
+        Prioritizing responsiveness and a clean user interface.
+        The project demonstrates my ability to design sleek and user-friendly web experiences, ensuring optimal display on different devices.
         "
 
 skills:

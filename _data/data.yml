@@ -8,14 +8,14 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Ömer Eren
-  tagline: Full Stack Developer
+  name: Emrullah Oğuz Özcan
+  tagline: Frontend Developer
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: erenomer@gmail.com
-  phone: +90 530 766 60 32
-  birthday: 18/02/1982
+  email: e.oguz.ozcan@gmail.com
+  phone: +90 543 548 81 12
+  birthday: 09/09/1994
   timezone: Turkey/İstanbul Timezone
   citizenship: Turkey
   website: monachus.io #do not add http://

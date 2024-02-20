@@ -58,19 +58,19 @@ education:
 experiences:
   title: Experiences
   info:
-    - role: Frontend Developer
+    - role: Senior Frontend Developer
       time: 01/2023 - Present
       company: Monachus Bilişim A.Ş.
       details: |
-        Actively contributing to a KOSGEB-supported Complex Event Processing (CEP) project written in Java, I played a hands-on role in a team of three individuals with diverse expertise. My primary focus was on frontend development, where I actively engaged in tasks like creating responsive designs, managing HTTPS requests, and implementing user interfaces. Specifically, I worked on the development of a real-time data processing and visualization web application. This involved not only ensuring a seamless and user-friendly experience through frontend design but also contributing to the project's goal of providing clients with robust data analytics solutions through event-centric massive-scale real-time streaming data processing.
+        Actively contributing to a KOSGEB-supported Complex Event Processing (CEP) project written in Java, I played a hands-on role in a team of three individuals with diverse expertise. My primary focus was on frontend development, where I actively engaged in tasks like creating responsive designs, managing API requests, and implementing user interfaces. Specifically, I worked on the development of a real-time data processing and visualization web application. This involved not only ensuring a seamless and user-friendly experience through frontend design but also contributing to the project's goal of providing clients with robust data analytics solutions through event-centric massive-scale real-time streaming data processing.
           - Event-centric Massive Scale Real-time Streaming Data Processing
           - Monachus Bilişim A.Ş. is associated with Altosis Bilişim A.Ş.
 
-    - role: Frontend Developer
+    - role: Junior Frontend Developer
       time: 01/2022 - Present
       company: Altosis Bilişim A.Ş.
       details: |
-        Designed and developed a robust web application utilizing React.js, catering to the complex functionalities of company management. The application features an intuitive admin interface allowing the creation of companies, importing employee lists, and assigning roles seamlessly. Admin users have the ability to streamline operations efficiently. Authorized users can upload payroll lists in PDF format for their respective companies, along with TC identification number. The system performs a meticulous matching process against the user lists, ensuring precise alignment. Each user is then automatically allocated their corresponding payroll information, creating a streamlined and automated process for efficient payroll management within the platform. This project underscores my proficiency in creating comprehensive and user-centric web applications that facilitate seamless data management and user interaction.
+        Designed and developed a robust web application utilizing React.js, catering to the complex functionalities of company management. The application features an intuitive admin interface allowing the creation of companies, importing employee lists, and assigning roles seamlessly. Admin users have the ability to streamline operations efficiently. Authorized users can upload payroll lists in PDF format for their respective companies, along with TC identification number. The system performs a matching process against the user lists, ensuring precise alignment. Each user is then automatically allocated their corresponding payroll information, creating a streamlined and automated process for efficient payroll management within the platform. This project underscores my proficiency in creating comprehensive and user-centric web applications that facilitate seamless data management and user interaction.
 
 certifications:
   title: Certifications

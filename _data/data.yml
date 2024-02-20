@@ -108,5 +108,11 @@ skills:
     - name: React
 
     - name: NextJS
-# footer: >
-#   <i class="fas fa-heart"></i> Thank you for taking the time to review my CV. I look forward to the opportunity to discuss how my skills and experiences can contribute to your team.
+
+    - name: Responsive Design
+
+    - name: Version Control/Git
+
+    - name: APIs
+
+    - name: Testing/Debugging

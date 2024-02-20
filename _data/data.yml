@@ -79,10 +79,8 @@ certifications:
 
 projects:
   title: Projects
-  intro: >
-    Side projects
   assignments:
-    - title: P&G (Procter and Gamble)
+    - title: Motion-ES
       website: motion-es.com
       tagline: "
         <br />

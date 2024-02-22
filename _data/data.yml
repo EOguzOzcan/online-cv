@@ -11,7 +11,7 @@ sidebar:
   name: Emrullah Oğuz Özcan
   tagline: Frontend Developer
   experience: "2 Years Experience in Frontend Development"
-  # avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: e.oguz.ozcan@gmail.com
